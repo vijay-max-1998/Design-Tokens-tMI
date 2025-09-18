@@ -1,0 +1,170 @@
+{
+  "default": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "chartvalues": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "chartvaluestext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "legend": {
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circle1": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "circle2": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      },
+      "circle3": {
+        "value": "{Category.C3.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.Black}",
+        "type": "color"
+      }
+    },
+    "doughnut": {
+      "color1": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "color2": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      },
+      "color3": {
+        "value": "{Category.C3.400}",
+        "type": "color"
+      },
+      "height": {
+        "value": "216px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "216px",
+        "type": "dimension"
+      }
+    }
+  },
+  "widget": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "chartvalues": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "chartvaluestext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "legend": {
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circle1": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "circle2": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      },
+      "circle3": {
+        "value": "{Category.C3.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.Black}",
+        "type": "color"
+      }
+    },
+    "doughnut": {
+      "color1": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "color2": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      },
+      "color3": {
+        "value": "{Category.C3.400}",
+        "type": "color"
+      },
+      "height": {
+        "value": "216px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "216px",
+        "type": "dimension"
+      }
+    }
+  }
+}

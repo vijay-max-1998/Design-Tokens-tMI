@@ -1,0 +1,44 @@
+{
+  "active": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "activetext": {
+      "value": "{Light Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    }
+  },
+  "hover": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "hovertext": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    }
+  },
+  "activetext": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  }
+}

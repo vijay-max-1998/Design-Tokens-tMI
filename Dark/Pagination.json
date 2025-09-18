@@ -1,0 +1,206 @@
+{
+  "small": {
+    "defaulttext": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "activetext": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "activefill": {
+      "value": "{Dark Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "text": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "total": {
+      "height": {
+        "value": "31px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "311px",
+        "type": "dimension"
+      }
+    },
+    "page": {
+      "height": {
+        "value": "31px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "110px",
+        "type": "dimension"
+      }
+    },
+    "goto": {
+      "height": {
+        "value": "31px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "50px",
+        "type": "dimension"
+      }
+    }
+  },
+  "medium": {
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "text": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "total": {
+      "height": {
+        "value": "38px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "410px",
+        "type": "dimension"
+      }
+    },
+    "page": {
+      "height": {
+        "value": "38px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "122px",
+        "type": "dimension"
+      }
+    },
+    "goto": {
+      "height": {
+        "value": "38px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "65px",
+        "type": "dimension"
+      }
+    },
+    "defaulttext": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "activetext": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "activefill": {
+      "value": "{Dark Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    }
+  },
+  "large": {
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "text": {
+      "value": "{Lead Text.Lead Text}",
+      "type": "typography"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "total": {
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "679px",
+        "type": "dimension"
+      }
+    },
+    "page": {
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "135px",
+        "type": "dimension"
+      }
+    },
+    "goto": {
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "80px",
+        "type": "dimension"
+      }
+    },
+    "defaulttext": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "activetext": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "activefill": {
+      "value": "{Dark Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    }
+  }
+}

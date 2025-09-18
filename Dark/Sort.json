@@ -1,0 +1,132 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G100}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "132px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "146px",
+      "type": "dimension"
+    }
+  },
+  "hover": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "hoverfill": {
+      "value": "{Dark Mode Color.Primary Color.Hover}",
+      "type": "color"
+    },
+    "hovertext": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G100}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "132px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "146px",
+      "type": "dimension"
+    }
+  },
+  "active": {
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G100}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "132px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "146px",
+      "type": "dimension"
+    },
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "hoverfill": {
+      "value": "{Dark Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "hovertext": {
+      "value": "{Body.Black}",
+      "type": "color"
+    }
+  }
+}

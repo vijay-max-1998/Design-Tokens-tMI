@@ -1,0 +1,152 @@
+{
+  "card": {
+    "heading": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "bodytextcolor": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "headingtext": {
+      "value": "{Lead Text.Lead Text Medium}",
+      "type": "typography"
+    },
+    "bodytext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "width": {
+      "value": "352px",
+      "type": "dimension"
+    },
+    "image": {
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "height": {
+        "value": "184px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "320px",
+        "type": "dimension"
+      }
+    }
+  },
+  "cardwithbutton": {
+    "heading": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "bodytextcolor": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "button": {
+      "submitfill": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "submittext": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "canceltext": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "submit": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "cancel": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "submitsize": {
+        "value": "{Button.Button Medium}",
+        "type": "typography"
+      },
+      "cancelsize": {
+        "value": "{Button.Button Medium}",
+        "type": "typography"
+      },
+      "cancelborder": {
+        "value": {
+          "color": "{Dark Mode Color.Primary Color.Default}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "submitheight": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "submitwidth": {
+        "value": "94px",
+        "type": "dimension"
+      },
+      "cancelheight": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "cancelwidth": {
+        "value": "94px",
+        "type": "dimension"
+      }
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "headingtext": {
+      "value": "{Lead Text.Lead Text Medium}",
+      "type": "typography"
+    },
+    "bodytext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "width": {
+      "value": "352px",
+      "type": "dimension"
+    },
+    "image": {
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "height": {
+        "value": "184px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "320px",
+        "type": "dimension"
+      }
+    }
+  }
+}

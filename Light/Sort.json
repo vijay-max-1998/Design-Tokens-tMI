@@ -1,0 +1,128 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "132px",
+      "type": "dimension"
+    }
+  },
+  "hover": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "hoverfill": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "hovertext": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "132px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "146px",
+      "type": "dimension"
+    }
+  },
+  "active": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "activefill": {
+      "value": "{Light Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "activetext": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "bodytext": {
+      "value": "{Lead Text.Lead Text Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "132px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "146px",
+      "type": "dimension"
+    }
+  }
+}

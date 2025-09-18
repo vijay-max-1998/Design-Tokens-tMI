@@ -1,0 +1,198 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Dark Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "boxheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "boxwidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "checked": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "boxfill": {
+      "value": "{Dark Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "boxheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "boxwidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Dark Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  },
+  "focused": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "boxfill": {
+      "value": "{Dark Mode Color.Purple D.Default P.D100}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Dark Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "boxheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "boxwidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "disabled": {
+    "text": {
+      "value": "{Dark Mode Color.Primary Color.Disable}",
+      "type": "color"
+    },
+    "boxfill": {
+      "value": "{Grey.G200}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Dark Mode Color.Primary Color.Disable}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "boxheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "boxwidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "invalid": {
+    "text": {
+      "value": "{Status Color.Danger.Danger Default}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Status Color.Danger.Danger Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "boxheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "boxwidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "valid": {
+    "text": {
+      "value": "{Status Color.Success.Success Default}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Status Color.Success.Success Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "boxheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "boxwidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  }
+}

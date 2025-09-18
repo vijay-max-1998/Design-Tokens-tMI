@@ -1,0 +1,198 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "circleheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "circlewidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "checked": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "circlefill": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "circleheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "circlewidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  },
+  "focused": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "circlefill": {
+      "value": "{Light Mode Color.Purple L.Default P.D100}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "circleheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "circlewidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "disabled": {
+    "text": {
+      "value": "{Light Mode Color.Primary Color.P Disable}",
+      "type": "color"
+    },
+    "circlefill": {
+      "value": "{Grey.G200}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.P Disable}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "circleheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "circlewidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "invalid": {
+    "text": {
+      "value": "{Status Color.Danger.Danger Default}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Status Color.Danger.Danger Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "circleheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "circlewidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "valid": {
+    "text": {
+      "value": "{Status Color.Success.Success Default}",
+      "type": "color"
+    },
+    "boxborder": {
+      "value": {
+        "color": "{Status Color.Success.Success Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "circleheight": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "circlewidth": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "radius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  }
+}

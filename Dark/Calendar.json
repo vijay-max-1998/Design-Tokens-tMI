@@ -1,0 +1,600 @@
+{
+  "date": {
+    "active": {
+      "searchbar": {
+        "text": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "border": {
+          "value": {
+            "color": "{Grey.G75}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "searchtext": {
+          "value": "{Lead Text.Lead Text Default}",
+          "type": "typography"
+        },
+        "height": {
+          "value": "35px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "250px",
+          "type": "dimension"
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        }
+      },
+      "calendar": {
+        "header": {
+          "month": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "year": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "days": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "dates": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "activefill": {
+            "value": "{Dark Mode Color.Primary Color.Active}",
+            "type": "color"
+          },
+          "activedate": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G200}",
+            "type": "color"
+          },
+          "daystext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "datestext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "activetext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{Dark Effect.D Small}",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        }
+      }
+    },
+    "hover": {
+      "searchbar": {
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "border": {
+          "value": {
+            "color": "{Grey.G75}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "searchtext": {
+          "value": "{Lead Text.Lead Text Default}",
+          "type": "typography"
+        },
+        "height": {
+          "value": "35px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "250px",
+          "type": "dimension"
+        },
+        "text": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        }
+      },
+      "calendar": {
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "header": {
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "month": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "year": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.White}",
+            "type": "color"
+          }
+        },
+        "shadow": {
+          "value": "{Dark Effect.D Small}",
+          "type": "boxShadow"
+        },
+        "body": {
+          "daystext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "datestext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "hovertext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "days": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "dates": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "hoverfill": {
+            "value": "{Dark Mode Color.Primary Color.Hover}",
+            "type": "color"
+          },
+          "hoverate": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G200}",
+            "type": "color"
+          }
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "month": {
+    "active": {
+      "calendar": {
+        "header": {
+          "year": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "activefill": {
+            "value": "{Dark Mode Color.Primary Color.Active}",
+            "type": "color"
+          },
+          "activemonth": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "months": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "activetext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{Dark Effect.D Small}",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        }
+      }
+    },
+    "hover": {
+      "calendar": {
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "header": {
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "year": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.White}",
+            "type": "color"
+          }
+        },
+        "shadow": {
+          "value": "{Dark Effect.D Small}",
+          "type": "boxShadow"
+        },
+        "body": {
+          "monthtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "hovertext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "hoverfill": {
+            "value": "{Dark Mode Color.Primary Color.Hover}",
+            "type": "color"
+          },
+          "hovermonth": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "months": {
+            "value": "{Body.White}",
+            "type": "color"
+          }
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "year": {
+    "active": {
+      "calendar": {
+        "header": {
+          "year": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "activefill": {
+            "value": "{Dark Mode Color.Primary Color.Active}",
+            "type": "color"
+          },
+          "activeyear": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "years": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "scroll": {
+            "value": "{Grey.G200}",
+            "type": "color"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "activetext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "shadow": {
+          "value": "{Dark Effect.D Small}",
+          "type": "boxShadow"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        }
+      },
+      "scroll": {
+        "height": {
+          "value": "86px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "6px",
+          "type": "dimension"
+        }
+      }
+    },
+    "hover": {
+      "calendar": {
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "header": {
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "year": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.White}",
+            "type": "color"
+          }
+        },
+        "shadow": {
+          "value": "{Dark Effect.D Small}",
+          "type": "boxShadow"
+        },
+        "body": {
+          "yeartext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "hovertext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "hoverfill": {
+            "value": "{Dark Mode Color.Primary Color.Hover}",
+            "type": "color"
+          },
+          "hoveryear": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "years": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "scroll": {
+            "value": "{Grey.G200}",
+            "type": "color"
+          }
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        },
+        "background": {
+          "value": "{Grey.G600}",
+          "type": "color"
+        }
+      },
+      "scroll": {
+        "height": {
+          "value": "86px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "6px",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

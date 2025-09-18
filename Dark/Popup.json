@@ -1,0 +1,138 @@
+{
+  "header": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "fill": {
+      "value": "{Dark Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "closeicon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "headertext": {
+      "value": "{Lead Text.Lead Text SemiBold}",
+      "type": "typography"
+    }
+  },
+  "input": {
+    "label": {
+      "value": "{Grey.G75}",
+      "type": "color"
+    },
+    "placeholder": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "dropdownicon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "labeltext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "placeholdertext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "36px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "240px",
+      "type": "dimension"
+    }
+  },
+  "button": {
+    "save": {
+      "fill": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "height": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "94px",
+        "type": "dimension"
+      }
+    },
+    "cancel": {
+      "text": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "height": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "94px",
+        "type": "dimension"
+      }
+    },
+    "cancelborder": {
+      "value": {
+        "color": "{Dark Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "savetext": {
+      "value": "{Button.Button Medium}",
+      "type": "typography"
+    },
+    "canceltext": {
+      "value": "{Button.Button Medium}",
+      "type": "typography"
+    }
+  },
+  "popup": {
+    "cornerradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "fill": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Medium}",
+      "type": "boxShadow"
+    },
+    "width": {
+      "value": "834px",
+      "type": "dimension"
+    }
+  }
+}

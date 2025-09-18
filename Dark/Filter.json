@@ -1,0 +1,426 @@
+{
+  "default": {
+    "search": {
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "line": {
+        "value": {
+          "color": "{Grey.G75}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "searchtext": {
+        "value": "{Body Text.Body Default}",
+        "type": "typography"
+      }
+    },
+    "scrollfill": {
+      "value": "{Grey.G500}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "checkbox": {
+      "defaultborder": {
+        "value": {
+          "color": "{Body.White}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "radius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "height": {
+        "value": "18px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "18px",
+        "type": "dimension"
+      }
+    },
+    "button": {
+      "applyfill": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "resettext": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "resetfill": {
+        "value": "{Grey.G600}",
+        "type": "color"
+      },
+      "resetborder": {
+        "value": {
+          "color": "{Dark Mode Color.Primary Color.Default}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "applytext": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "radius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "text": {
+        "value": "{Button.Button Medium}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "89px",
+        "type": "dimension"
+      }
+    },
+    "scroll": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "filterradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "width": {
+      "value": "220px",
+      "type": "dimension"
+    },
+    "scrollheight": {
+      "value": "86px",
+      "type": "dimension"
+    },
+    "scrollwidth": {
+      "value": "6px",
+      "type": "dimension"
+    }
+  },
+  "hover": {
+    "search": {
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "line": {
+        "value": {
+          "color": "{Grey.G75}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "searchtext": {
+        "value": "{Body Text.Body Default}",
+        "type": "typography"
+      }
+    },
+    "scrollfill": {
+      "value": "{Grey.G500}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "hovertext": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "hoverfill": {
+      "value": "{Dark Mode Color.Primary Color.Hover}",
+      "type": "color"
+    },
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "button": {
+      "applyfill": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "resettext": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "resetfill": {
+        "value": "{Grey.G600}",
+        "type": "color"
+      },
+      "applytext": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "radius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "resetborder": {
+        "value": {
+          "color": "{Dark Mode Color.Primary Color.Default}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "text": {
+        "value": "{Button.Button Medium}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "89px",
+        "type": "dimension"
+      }
+    },
+    "checkbox": {
+      "fill": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "radius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "defaultborder": {
+        "value": {
+          "color": "{Body.White}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "hoverborder": {
+        "value": {
+          "color": "{Body.Black}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "height": {
+        "value": "18px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "18px",
+        "type": "dimension"
+      }
+    },
+    "scroll": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "filterradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "width": {
+      "value": "220px",
+      "type": "dimension"
+    },
+    "scrollheight": {
+      "value": "86px",
+      "type": "dimension"
+    },
+    "scrollwidth": {
+      "value": "6px",
+      "type": "dimension"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    }
+  },
+  "active": {
+    "search": {
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "line": {
+        "value": {
+          "color": "{Grey.G75}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "searchtext": {
+        "value": "{Body Text.Body Default}",
+        "type": "typography"
+      }
+    },
+    "scrollfill": {
+      "value": "{Grey.G500}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "button": {
+      "applyfill": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "resettext": {
+        "value": "{Dark Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "resetfill": {
+        "value": "{Grey.G600}",
+        "type": "color"
+      },
+      "applytext": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "radius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "resetborder": {
+        "value": {
+          "color": "{Dark Mode Color.Primary Color.Default}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "text": {
+        "value": "{Button.Button Medium}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "44px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "89px",
+        "type": "dimension"
+      }
+    },
+    "activetext": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "activefill": {
+      "value": "{Dark Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "checkbox": {
+      "fill": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "radius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "defaultborder": {
+        "value": {
+          "color": "{Body.White}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "height": {
+        "value": "18px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "18px",
+        "type": "dimension"
+      }
+    },
+    "scroll": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "filterradius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "textstyle": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "width": {
+      "value": "220px",
+      "type": "dimension"
+    },
+    "scrollheight": {
+      "value": "86px",
+      "type": "dimension"
+    },
+    "scrollwidth": {
+      "value": "6px",
+      "type": "dimension"
+    }
+  }
+}

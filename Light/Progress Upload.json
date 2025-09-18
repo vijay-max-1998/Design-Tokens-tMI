@@ -1,0 +1,260 @@
+{
+  "default": {
+    "heading": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "File": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "size": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G50}",
+      "type": "color"
+    },
+    "progresstrack": {
+      "value": "{Grey.G75}",
+      "type": "color"
+    },
+    "iconfill": {
+      "value": "{Status Color.Danger.Danger Default}",
+      "type": "color"
+    },
+    "erroricon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.8}",
+      "type": "borderRadius"
+    },
+    "imageradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "headingtext": {
+      "value": "{Headings.H2}",
+      "type": "typography"
+    },
+    "filetext": {
+      "value": "{Headings.H5}",
+      "type": "typography"
+    },
+    "sizetext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "232px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "960px",
+      "type": "dimension"
+    },
+    "imageheight": {
+      "value": "80px",
+      "type": "dimension"
+    },
+    "imagewidth": {
+      "value": "80px",
+      "type": "dimension"
+    },
+    "trackheight": {
+      "value": "22px",
+      "type": "dimension"
+    },
+    "trackwidth": {
+      "value": "784px",
+      "type": "dimension"
+    },
+    "trackradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "progress": {
+    "heading": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "File": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "size": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G50}",
+      "type": "color"
+    },
+    "progresstrack": {
+      "value": "{Grey.G75}",
+      "type": "color"
+    },
+    "iconfill": {
+      "value": "{Status Color.Danger.Danger Default}",
+      "type": "color"
+    },
+    "erroricon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "progressfill": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "percentage": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.8}",
+      "type": "borderRadius"
+    },
+    "imageradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "headingtext": {
+      "value": "{Headings.H2}",
+      "type": "typography"
+    },
+    "filetext": {
+      "value": "{Headings.H5}",
+      "type": "typography"
+    },
+    "sizetext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "percentagetext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "232px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "960px",
+      "type": "dimension"
+    },
+    "imageheight": {
+      "value": "80px",
+      "type": "dimension"
+    },
+    "imagewidth": {
+      "value": "80px",
+      "type": "dimension"
+    },
+    "trackheight": {
+      "value": "22px",
+      "type": "dimension"
+    },
+    "trackwidth": {
+      "value": "784px",
+      "type": "dimension"
+    },
+    "trackradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "completed": {
+    "heading": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "File": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "size": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G50}",
+      "type": "color"
+    },
+    "progresstrack": {
+      "value": "{Grey.G75}",
+      "type": "color"
+    },
+    "iconfill": {
+      "value": "{Status Color.Success.Success Default}",
+      "type": "color"
+    },
+    "erroricon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "progressfill": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "percentage": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.8}",
+      "type": "borderRadius"
+    },
+    "imageradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "headingtext": {
+      "value": "{Headings.H2}",
+      "type": "typography"
+    },
+    "filetext": {
+      "value": "{Headings.H5}",
+      "type": "typography"
+    },
+    "sizetext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "percentagetext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "232px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "960px",
+      "type": "dimension"
+    },
+    "imageheight": {
+      "value": "80px",
+      "type": "dimension"
+    },
+    "imagewidth": {
+      "value": "80px",
+      "type": "dimension"
+    },
+    "trackheight": {
+      "value": "22px",
+      "type": "dimension"
+    },
+    "trackwidth": {
+      "value": "784px",
+      "type": "dimension"
+    },
+    "trackradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  }
+}

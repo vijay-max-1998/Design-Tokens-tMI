@@ -1,0 +1,172 @@
+{
+  "validate": {
+    "label": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "input": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "sum": {
+      "value": "{Dark Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "validation": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "inputborder": {
+      "value": {
+        "color": "{Grey.G200}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "labeltext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "inputext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "validationtext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "inputheight": {
+      "value": "59px",
+      "type": "dimension"
+    },
+    "inputwidth": {
+      "value": "593px",
+      "type": "dimension"
+    }
+  },
+  "valid": {
+    "label": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "input": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "sum": {
+      "value": "{Dark Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "validation": {
+      "value": "{Status Color.Success.Success Default}",
+      "type": "color"
+    },
+    "validationicon": {
+      "value": "{Status Color.Success.Success Default}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "inputborder": {
+      "value": {
+        "color": "{Grey.G200}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "labeltext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "inputext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "validationtext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "inputheight": {
+      "value": "59px",
+      "type": "dimension"
+    },
+    "inputwidth": {
+      "value": "593px",
+      "type": "dimension"
+    }
+  },
+  "invalid": {
+    "label": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "input": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "sum": {
+      "value": "{Dark Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "validation": {
+      "value": "{Status Color.Danger.Danger Default}",
+      "type": "color"
+    },
+    "validationicon": {
+      "value": "{Status Color.Danger.Danger Default}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "inputborder": {
+      "value": {
+        "color": "{Grey.G200}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "labeltext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "inputext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "validationtext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "inputheight": {
+      "value": "59px",
+      "type": "dimension"
+    },
+    "inputwidth": {
+      "value": "593px",
+      "type": "dimension"
+    }
+  }
+}
