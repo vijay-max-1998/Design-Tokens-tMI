@@ -12,25 +12,33 @@
   "Light Mode Color": {
     "Gradient Color": {
       "Gradient Default": {
-        "value": "linear-gradient(133deg, #662d91 0%, #5241b0 98.5%)",
+        "value": "linear-gradient(115deg, #0275d2 0%, #0fb7cc 100%)",
         "type": "color"
       },
       "Gradient Active": {
-        "value": "linear-gradient(133deg, #471f66 0%, #3b2f7f 100%)",
+        "value": "linear-gradient(115deg, #0156a0 0%, #0c94a5 100%)",
         "type": "color"
       },
       "Gradient Hover": {
-        "value": "linear-gradient(135deg, #e8e0ee 0%, #ccc6ef 100%)",
+        "value": "linear-gradient(115deg, #4da1e0 0%, #61d4df 100%)",
         "type": "color"
       },
       "G Disable": {
         "value": "#ababab",
         "type": "color"
+      },
+      "Gradient UI Card": {
+        "value": "linear-gradient(113deg, #007cf0 0%, #00dfd8 100%)",
+        "type": "color"
+      },
+      "Gradient Table Header": {
+        "value": "linear-gradient(133deg, #0275d2 0%, #0fb7cc 98.5%)",
+        "type": "color"
       }
     },
     "Primary Color": {
       "Default": {
-        "value": "#662d91",
+        "value": "#0275D2",
         "type": "color"
       },
       "Active": {
@@ -163,6 +171,14 @@
       },
       "G Disable": {
         "value": "#ababab",
+        "type": "color"
+      },
+      "Gradient Table Header": {
+        "value": "linear-gradient(133deg, #0275d2 0%, #0fb7cc 98.5%)",
+        "type": "color"
+      },
+      "Gradient UI Card": {
+        "value": "linear-gradient(113deg, #007cf0 0%, #00dfd8 100%)",
         "type": "color"
       }
     },
