@@ -3384,7 +3384,7 @@
                 "type": "color"
               },
               "icon": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "cornerradius": {
@@ -3406,11 +3406,11 @@
                 "type": "color"
               },
               "text": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "icon": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "cornerradius": {
