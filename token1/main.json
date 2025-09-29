@@ -3068,7 +3068,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "cornerradius": {
@@ -3090,7 +3090,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "cornerradius": {
@@ -3112,7 +3112,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "cornerradius": {
@@ -3354,11 +3354,11 @@
                 "type": "color"
               },
               "text": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "icon": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "cornerradius": {
@@ -3380,7 +3380,7 @@
                 "type": "color"
               },
               "text": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "icon": {
@@ -6020,7 +6020,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "cornerradius": {
@@ -6050,7 +6050,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "cornerradius": {
@@ -6080,7 +6080,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "cornerradius": {
@@ -6112,7 +6112,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "cornerradius": {
@@ -6142,7 +6142,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "cornerradius": {
@@ -6172,7 +6172,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "cornerradius": {
@@ -6378,7 +6378,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "icon": {
@@ -6412,7 +6412,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "icon": {
@@ -6446,7 +6446,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "icon": {
@@ -6482,7 +6482,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -6516,7 +6516,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -6550,7 +6550,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -6772,7 +6772,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "icon": {
@@ -6806,7 +6806,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "icon": {
@@ -6840,7 +6840,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                "value": "{Light Mode Color.Blue.B 50}",
                 "type": "color"
               },
               "icon": {
@@ -6876,7 +6876,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -6910,7 +6910,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -6944,7 +6944,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Light Mode Color.Purple L.Active P.A100}",
+                "value": "{Light Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -7155,7 +7155,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                  "value": "{Light Mode Color.Blue.B 50}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7185,7 +7185,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                  "value": "{Light Mode Color.Blue.B 50}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7215,7 +7215,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                  "value": "{Light Mode Color.Blue.B 50}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7247,7 +7247,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Active P.A100}",
+                  "value": "{Light Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7277,7 +7277,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Active P.A100}",
+                  "value": "{Light Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7307,7 +7307,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Active P.A100}",
+                  "value": "{Light Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7501,7 +7501,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                  "value": "{Light Mode Color.Blue.B 50}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7531,7 +7531,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                  "value": "{Light Mode Color.Blue.B 50}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7561,7 +7561,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Hover P.H100}",
+                  "value": "{Light Mode Color.Blue.B 50}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7593,7 +7593,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Active P.A100}",
+                  "value": "{Light Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7623,7 +7623,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Active P.A100}",
+                  "value": "{Light Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -7653,7 +7653,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Light Mode Color.Purple L.Active P.A100}",
+                  "value": "{Light Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -13909,7 +13909,7 @@
           "type": "color"
         },
         "iconfill": {
-          "value": "{Light Mode Color.Purple L.Hover P.H100}",
+          "value": "{Light Mode Color.Blue.B 50}",
           "type": "color"
         },
         "iconradius": {
@@ -14007,7 +14007,7 @@
           "type": "color"
         },
         "iconfill": {
-          "value": "{Light Mode Color.Purple L.Hover P.H100}",
+          "value": "{Light Mode Color.Blue.B 100}",
           "type": "color"
         },
         "menuitem": {
@@ -14201,7 +14201,7 @@
           "type": "color"
         },
         "boxfill": {
-          "value": "{Light Mode Color.Purple L.Default P.D100}",
+          "value": "{Light Mode Color.Blue.B 100}",
           "type": "color"
         },
         "radius": {
@@ -14399,7 +14399,7 @@
           "type": "color"
         },
         "circlefill": {
-          "value": "{Light Mode Color.Purple L.Default P.D100}",
+          "value": "{Light Mode Color.Blue.B 100}",
           "type": "color"
         },
         "radius": {
@@ -14593,7 +14593,7 @@
           "type": "color"
         },
         "boxfill": {
-          "value": "{Light Mode Color.Purple L.Default P.D100}",
+          "value": "{Light Mode Color.Blue.B 100}",
           "type": "color"
         },
         "circlefill": {
@@ -22288,7 +22288,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "cornerradius": {
@@ -22318,7 +22318,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "cornerradius": {
@@ -22348,7 +22348,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "cornerradius": {
@@ -22380,7 +22380,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "cornerradius": {
@@ -22410,7 +22410,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "cornerradius": {
@@ -22440,7 +22440,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "cornerradius": {
@@ -22646,7 +22646,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -22680,7 +22680,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -22714,7 +22714,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -22750,7 +22750,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "icon": {
@@ -22784,7 +22784,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "icon": {
@@ -22818,7 +22818,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "icon": {
@@ -23040,7 +23040,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -23074,7 +23074,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -23108,7 +23108,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                "value": "{Dark Mode Color.Blue.B 100}",
                 "type": "color"
               },
               "icon": {
@@ -23144,7 +23144,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "icon": {
@@ -23178,7 +23178,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "icon": {
@@ -23212,7 +23212,7 @@
                 "type": "color"
               },
               "background": {
-                "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                "value": "{Dark Mode Color.Blue.B 200}",
                 "type": "color"
               },
               "icon": {
@@ -23423,7 +23423,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                  "value": "{Dark Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23453,7 +23453,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                  "value": "{Dark Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23483,7 +23483,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                  "value": "{Dark Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23515,7 +23515,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                  "value": "{Dark Mode Color.Blue.B 200}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23545,7 +23545,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                  "value": "{Dark Mode Color.Blue.B 200}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23575,7 +23575,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                  "value": "{Dark Mode Color.Blue.B 200}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23769,7 +23769,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                  "value": "{Dark Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23799,7 +23799,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                  "value": "{Dark Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23829,7 +23829,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Hover P.H300}",
+                  "value": "{Dark Mode Color.Blue.B 100}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23861,7 +23861,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                  "value": "{Dark Mode Color.Blue.B 200}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23891,7 +23891,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                  "value": "{Dark Mode Color.Blue.B 200}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -23921,7 +23921,7 @@
                   "type": "color"
                 },
                 "background": {
-                  "value": "{Dark Mode Color.Purple D.Active P.A300}",
+                  "value": "{Dark Mode Color.Blue.B 200}",
                   "type": "color"
                 },
                 "cornerradius": {
@@ -30275,7 +30275,7 @@
           "type": "color"
         },
         "iconfill": {
-          "value": "{Dark Mode Color.Purple D.Hover P.H100}",
+          "value": "{Dark Mode Color.Blue.B 100}",
           "type": "color"
         },
         "iconradius": {
@@ -30373,7 +30373,7 @@
           "type": "color"
         },
         "iconfill": {
-          "value": "{Dark Mode Color.Purple D.Hover P.H100}",
+          "value": "{Dark Mode Color.Blue.B 300}",
           "type": "color"
         },
         "menuitem": {
@@ -30567,7 +30567,7 @@
           "type": "color"
         },
         "boxfill": {
-          "value": "{Dark Mode Color.Purple D.Default P.D100}",
+          "value": "{Dark Mode Color.Blue.B 100}",
           "type": "color"
         },
         "radius": {
@@ -30765,7 +30765,7 @@
           "type": "color"
         },
         "boxfill": {
-          "value": "{Dark Mode Color.Purple D.Default P.D100}",
+          "value": "{Dark Mode Color.Blue.B 100}",
           "type": "color"
         },
         "radius": {
@@ -30959,7 +30959,7 @@
           "type": "color"
         },
         "boxfill": {
-          "value": "{Dark Mode Color.Purple D.Default P.D100}",
+          "value": "{Dark Mode Color.Blue.B 100}",
           "type": "color"
         },
         "circlefill": {
