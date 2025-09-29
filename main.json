@@ -30,7 +30,7 @@
     },
     "Primary Color": {
       "Default": {
-        "value": "#2b68cc",
+        "value": "{Category.C1.300}",
         "type": "color"
       },
       "Active": {
