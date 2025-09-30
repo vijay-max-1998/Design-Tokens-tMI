@@ -3,12 +3,18 @@
     "id": "94ba66524f455cbdf2e37ba2934795b86259900e",
     "name": "Light",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {}
+    "selectedTokenSets": {
+      "main": "enabled"
+    },
+    "$figmaVariableReferences": {}
   },
   {
     "id": "92eaa0ba1fbf0fca6afb18d5083660eb7b2069a4",
     "name": "Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {}
+    "selectedTokenSets": {
+      "main": "enabled"
+    },
+    "$figmaVariableReferences": {}
   }
 ]
