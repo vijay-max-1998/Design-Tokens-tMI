@@ -10799,12 +10799,8 @@
                 "value": "{Body.Black}",
                 "type": "color"
               },
-              "hoverfill": {
-                "value": "{Light Mode Color.Primary Color.P Hover}",
-                "type": "color"
-              },
               "hoverdate": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "disableddate": {
@@ -10826,6 +10822,14 @@
               "hovertext": {
                 "value": "{Body Text.Body Medium}",
                 "type": "typography"
+              },
+              "hoverborder": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "background": {
@@ -10949,12 +10953,8 @@
               }
             },
             "body": {
-              "hoverfill": {
-                "value": "{Light Mode Color.Primary Color.P Hover}",
-                "type": "color"
-              },
               "hovermonth": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "disableddate": {
@@ -10976,6 +10976,14 @@
               "hovertext": {
                 "value": "{Body Text.Body Medium}",
                 "type": "typography"
+              },
+              "hoverborder": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "cornerradius": {
@@ -11109,12 +11117,8 @@
               }
             },
             "body": {
-              "hoverfill": {
-                "value": "{Light Mode Color.Primary Color.P Hover}",
-                "type": "color"
-              },
               "hoveryear": {
-                "value": "{Body.White}",
+                "value": "{Body.Black}",
                 "type": "color"
               },
               "disableddate": {
@@ -11140,6 +11144,14 @@
               "hovertext": {
                 "value": "{Body Text.Body Medium}",
                 "type": "typography"
+              },
+              "hoverborder": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "cornerradius": {
@@ -11468,7 +11480,7 @@
             "type": "color"
           },
           "hoverbackground": {
-            "value": "{Grey.G75}",
+            "value": "{Light Mode Color.Blue.B 50}",
             "type": "color"
           },
           "line": {
@@ -11554,18 +11566,6 @@
           "value": "{Body.White}",
           "type": "color"
         },
-        "hovertext": {
-          "value": "{Body.White}",
-          "type": "color"
-        },
-        "hovericon": {
-          "value": "{Body.White}",
-          "type": "color"
-        },
-        "hoverfill": {
-          "value": "{Light Mode Color.Primary Color.P Hover}",
-          "type": "color"
-        },
         "cornerradius": {
           "value": "{Corner Radius.4}",
           "type": "borderRadius"
@@ -11593,6 +11593,14 @@
         "width": {
           "value": "127px",
           "type": "dimension"
+        },
+        "hoverborder": {
+          "value": {
+            "color": "{Light Mode Color.Primary Color.P Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       }
     },
@@ -11631,16 +11639,12 @@
       },
       "hover": {
         "button": {
-          "background": {
-            "value": "{Light Mode Color.Primary Color.P Hover}",
-            "type": "color"
-          },
           "icon": {
-            "value": "{Body.White}",
+            "value": "{Body.Black}",
             "type": "color"
           },
           "text": {
-            "value": "{Body.White}",
+            "value": "{Body.Black}",
             "type": "color"
           },
           "cornerradius": {
@@ -11658,6 +11662,14 @@
           "width": {
             "value": "119px",
             "type": "dimension"
+          },
+          "border": {
+            "value": {
+              "color": "{Light Mode Color.Primary Color.P Hover}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       },
@@ -11767,14 +11779,6 @@
             "value": "{Body.Black}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Light Mode Color.Primary Color.P Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.White}",
-            "type": "color"
-          },
           "cornerradius": {
             "value": "{Corner Radius.4}",
             "type": "borderRadius"
@@ -11798,6 +11802,14 @@
           "width": {
             "value": "171px",
             "type": "dimension"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Light Mode Color.Primary Color.P Hover}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       },
@@ -12241,7 +12253,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Light Mode Color.Primary Color.Default}",
+          "value": "{Light Mode Color.Gradient Color.UI Card Gradient}",
           "type": "color"
         },
         "cornerradius": {
@@ -12287,7 +12299,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Light Mode Color.Primary Color.P Hover}",
+          "value": "{Light Mode Color.Gradient Color.UI Card Gradient}",
           "type": "color"
         },
         "cornerradius": {
@@ -27269,12 +27281,8 @@
                 "value": "{Body.White}",
                 "type": "color"
               },
-              "hoverfill": {
-                "value": "{Dark Mode Color.Primary Color.Hover}",
-                "type": "color"
-              },
               "hoverate": {
-                "value": "{Body.Black}",
+                "value": "{Body.White}",
                 "type": "color"
               },
               "disableddate": {
@@ -27296,6 +27304,14 @@
               "hovertext": {
                 "value": "{Body Text.Body Medium}",
                 "type": "typography"
+              },
+              "hoverborder": {
+                "value": {
+                  "color": "{Dark Mode Color.Primary Color.Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "background": {
@@ -27423,12 +27439,8 @@
               }
             },
             "body": {
-              "hoverfill": {
-                "value": "{Dark Mode Color.Primary Color.Hover}",
-                "type": "color"
-              },
               "hovermonth": {
-                "value": "{Body.Black}",
+                "value": "{Body.White}",
                 "type": "color"
               },
               "disableddate": {
@@ -27450,6 +27462,14 @@
               "hovertext": {
                 "value": "{Body Text.Body Medium}",
                 "type": "typography"
+              },
+              "hoverborder": {
+                "value": {
+                  "color": "{Dark Mode Color.Primary Color.Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "background": {
@@ -27591,12 +27611,8 @@
               }
             },
             "body": {
-              "hoverfill": {
-                "value": "{Dark Mode Color.Primary Color.Hover}",
-                "type": "color"
-              },
               "hoveryear": {
-                "value": "{Body.Black}",
+                "value": "{Body.White}",
                 "type": "color"
               },
               "disableddate": {
@@ -27622,6 +27638,14 @@
               "hovertext": {
                 "value": "{Body Text.Body Medium}",
                 "type": "typography"
+              },
+              "hoverborder": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "background": {
@@ -27682,7 +27706,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Body.Black}",
+            "value": "{Dark Mode Color.Others.NAV BG}",
             "type": "color"
           },
           "line": {
@@ -27796,7 +27820,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Body.Black}",
+            "value": "{Dark Mode Color.Others.NAV BG}",
             "type": "color"
           },
           "checkbox": {
@@ -27888,7 +27912,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Body.Black}",
+            "value": "{Dark Mode Color.Others.NAV BG}",
             "type": "color"
           },
           "line": {
@@ -27950,11 +27974,11 @@
             "type": "color"
           },
           "background": {
-            "value": "{Body.Black}",
+            "value": "{Dark Mode Color.Others.NAV BG}",
             "type": "color"
           },
           "hoverbackground": {
-            "value": "{Grey.G75}",
+            "value": "{Dark Mode Color.Blue.B 900}",
             "type": "color"
           },
           "line": {
@@ -28040,18 +28064,6 @@
           "value": "{Grey.G600}",
           "type": "color"
         },
-        "hovertext": {
-          "value": "{Body.Black}",
-          "type": "color"
-        },
-        "hovericon": {
-          "value": "{Body.Black}",
-          "type": "color"
-        },
-        "hoverfill": {
-          "value": "{Dark Mode Color.Primary Color.Hover}",
-          "type": "color"
-        },
         "cornerradius": {
           "value": "{Corner Radius.4}",
           "type": "borderRadius"
@@ -28079,6 +28091,14 @@
         "width": {
           "value": "127px",
           "type": "dimension"
+        },
+        "hoverborder": {
+          "value": {
+            "color": "{Dark Mode Color.Primary Color.Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       }
     },
@@ -28117,16 +28137,12 @@
       },
       "hover": {
         "button": {
-          "background": {
-            "value": "{Dark Mode Color.Primary Color.Hover}",
-            "type": "color"
-          },
           "icon": {
-            "value": "{Body.Black}",
+            "value": "{Body.White}",
             "type": "color"
           },
           "text": {
-            "value": "{Body.Black}",
+            "value": "{Body.White}",
             "type": "color"
           },
           "cornerradius": {
@@ -28144,6 +28160,14 @@
           "width": {
             "value": "119px",
             "type": "dimension"
+          },
+          "border": {
+            "value": {
+              "color": "{Dark Mode Color.Primary Color.Hover}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       },
@@ -28253,14 +28277,6 @@
             "value": "{Body.White}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Dark Mode Color.Primary Color.Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.Black}",
-            "type": "color"
-          },
           "cornerradius": {
             "value": "{Corner Radius.4}",
             "type": "borderRadius"
@@ -28284,6 +28300,14 @@
           "width": {
             "value": "171px",
             "type": "dimension"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Dark Mode Color.Primary Color.Hover}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       },
@@ -28735,7 +28759,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Dark Mode Color.Primary Color.Default}",
+          "value": "{Dark Mode Color.Gradient Color.UI Card Gradient}",
           "type": "color"
         },
         "cornerradius": {
@@ -28773,15 +28797,15 @@
       },
       "hover": {
         "text": {
-          "value": "{Body.Black}",
+          "value": "{Body.White}",
           "type": "color"
         },
         "icon": {
-          "value": "{Body.Black}",
+          "value": "{Body.White}",
           "type": "color"
         },
         "background": {
-          "value": "{Dark Mode Color.Primary Color.Hover}",
+          "value": "{Dark Mode Color.Gradient Color.UI Card Gradient}",
           "type": "color"
         },
         "cornerradius": {
