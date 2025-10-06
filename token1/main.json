@@ -3410,6 +3410,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -3432,6 +3440,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -3698,6 +3714,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -3720,6 +3744,14 @@
               "text": {
                 "value": "{Body.Black}",
                 "type": "color"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -3742,6 +3774,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -3993,6 +4033,14 @@
                 "height": {
                   "value": "30px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "medium": {
@@ -4011,6 +4059,14 @@
                 "height": {
                   "value": "40px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "large": {
@@ -4029,6 +4085,14 @@
                 "height": {
                   "value": "52px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               }
             },
@@ -4255,6 +4319,14 @@
                 "height": {
                   "value": "30px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "medium": {
@@ -4273,6 +4345,14 @@
                 "height": {
                   "value": "40px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "large": {
@@ -4291,6 +4371,14 @@
                 "height": {
                   "value": "52px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               }
             },
@@ -4520,6 +4608,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -4538,6 +4634,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -4556,6 +4660,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -4798,6 +4910,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -4820,6 +4940,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -4842,6 +4970,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -5108,6 +5244,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -5130,6 +5274,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -5152,6 +5304,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Secondary Color.S Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -5403,6 +5563,14 @@
                 "height": {
                   "value": "30px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Secondary Color.S Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "medium": {
@@ -5421,6 +5589,14 @@
                 "height": {
                   "value": "40px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Secondary Color.S Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "large": {
@@ -5439,6 +5615,14 @@
                 "height": {
                   "value": "52px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Secondary Color.S Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               }
             },
@@ -5665,6 +5849,14 @@
                 "height": {
                   "value": "30px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Secondary Color.S Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "medium": {
@@ -5683,6 +5875,14 @@
                 "height": {
                   "value": "40px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Secondary Color.S Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "large": {
@@ -5701,6 +5901,14 @@
                 "height": {
                   "value": "52px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Secondary Color.S Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               }
             },
@@ -19258,6 +19466,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -19276,6 +19492,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -19294,6 +19518,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -19536,6 +19768,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -19558,6 +19798,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -19580,6 +19828,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -19846,6 +20102,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -19868,6 +20132,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -19890,6 +20162,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -20141,6 +20421,14 @@
                 "height": {
                   "value": "30px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "medium": {
@@ -20159,6 +20447,14 @@
                 "height": {
                   "value": "40px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "large": {
@@ -20177,6 +20473,14 @@
                 "height": {
                   "value": "52px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               }
             },
@@ -20403,6 +20707,14 @@
                 "height": {
                   "value": "30px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "medium": {
@@ -20421,6 +20733,14 @@
                 "height": {
                   "value": "40px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               },
               "large": {
@@ -20439,6 +20759,14 @@
                 "height": {
                   "value": "52px",
                   "type": "dimension"
+                },
+                "border": {
+                  "value": {
+                    "color": "{Light Mode Color.Primary Color.P Hover}",
+                    "width": "1",
+                    "style": "solid"
+                  },
+                  "type": "border"
                 }
               }
             },
