@@ -1,0 +1,94 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.8}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G50}",
+        "width": "6",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "primarytext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "value": {
+      "value": "{Headings.H1}",
+      "type": "typography"
+    },
+    "secondarytext": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "130px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "366px",
+      "type": "dimension"
+    }
+  },
+  "hover": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.8}",
+      "type": "borderRadius"
+    },
+    "border": {
+      "value": {
+        "color": "{Grey.G50}",
+        "width": "6",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "primarytext": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "value": {
+      "value": "{Headings.H1}",
+      "type": "typography"
+    },
+    "secondarytext": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "130px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "366px",
+      "type": "dimension"
+    }
+  }
+}

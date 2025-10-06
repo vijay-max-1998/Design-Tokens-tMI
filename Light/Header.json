@@ -1,0 +1,316 @@
+{
+  "default": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "bento": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "profilefill": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "profileicon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "username": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "account": {
+      "value": "{Grey.G200}",
+      "type": "color"
+    },
+    "dropdown": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "iconborder": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.Default}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "iconradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "name": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "accounttext": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "62px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "1440px",
+      "type": "dimension"
+    },
+    "iconheight": {
+      "value": "38px",
+      "type": "dimension"
+    },
+    "iconwidth": {
+      "value": "38px",
+      "type": "dimension"
+    },
+    "bentoheight": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "bentowidth": {
+      "value": "32px",
+      "type": "dimension"
+    }
+  },
+  "hover": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "bento": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "profilefill": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "profileicon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "username": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "account": {
+      "value": "{Grey.G100}",
+      "type": "color"
+    },
+    "dropdown": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "hoverfill": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "iconfill": {
+      "value": "{Light Mode Color.Purple L.Hover P.H100}",
+      "type": "color"
+    },
+    "iconborder": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.P Hover}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "iconradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "name": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "accounttext": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "profileborder": {
+      "value": {
+        "color": "{Body.White}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "height": {
+      "value": "62px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "1440px",
+      "type": "dimension"
+    },
+    "iconheight": {
+      "value": "38px",
+      "type": "dimension"
+    },
+    "iconwidth": {
+      "value": "38px",
+      "type": "dimension"
+    },
+    "bentoheight": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "bentowidth": {
+      "value": "32px",
+      "type": "dimension"
+    }
+  },
+  "active": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "bento": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Light Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "profilefill": {
+      "value": "{Light Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "profileicon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "username": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "account": {
+      "value": "{Grey.G100}",
+      "type": "color"
+    },
+    "dropdown": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "activefill": {
+      "value": "{Light Mode Color.Primary Color.Active}",
+      "type": "color"
+    },
+    "iconfill": {
+      "value": "{Light Mode Color.Purple L.Hover P.H100}",
+      "type": "color"
+    },
+    "iconborder": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.Active}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "menuitem": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "logout": {
+      "value": "{Grey.G200}",
+      "type": "color"
+    },
+    "menubackground": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "menuline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "iconradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    },
+    "activeradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "menushadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "name": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "accounttext": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "menutext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "profileborder": {
+      "value": {
+        "color": "{Body.White}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "height": {
+      "value": "62px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "1440px",
+      "type": "dimension"
+    },
+    "iconheight": {
+      "value": "38px",
+      "type": "dimension"
+    },
+    "iconwidth": {
+      "value": "38px",
+      "type": "dimension"
+    },
+    "bentoheight": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "bentowidth": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "menuwidth": {
+      "value": "230px",
+      "type": "dimension"
+    }
+  }
+}

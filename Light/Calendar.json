@@ -1,0 +1,584 @@
+{
+  "date": {
+    "active": {
+      "searchbar": {
+        "text": {
+          "value": "{Body.Black}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.Black}",
+          "type": "color"
+        },
+        "border": {
+          "value": {
+            "color": "{Grey.G75}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "searchtext": {
+          "value": "{Lead Text.Lead Text Default}",
+          "type": "typography"
+        },
+        "height": {
+          "value": "35px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "250px",
+          "type": "dimension"
+        },
+        "background": {
+          "value": "{Body.White}",
+          "type": "color"
+        }
+      },
+      "calendar": {
+        "header": {
+          "month": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "year": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "days": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "dates": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "activefill": {
+            "value": "{Light Mode Color.Primary Color.Active}",
+            "type": "color"
+          },
+          "activedate": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G200}",
+            "type": "color"
+          },
+          "daystext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "datestext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "activetext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "background": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{Light Effect.L Small}",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        }
+      }
+    },
+    "hover": {
+      "searchbar": {
+        "text": {
+          "value": "{Body.Black}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.Black}",
+          "type": "color"
+        },
+        "background": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "border": {
+          "value": {
+            "color": "{Grey.G75}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "searchtext": {
+          "value": "{Lead Text.Lead Text Default}",
+          "type": "typography"
+        },
+        "height": {
+          "value": "35px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "250px",
+          "type": "dimension"
+        }
+      },
+      "calendar": {
+        "header": {
+          "month": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "year": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "days": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "dates": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "hoverfill": {
+            "value": "{Light Mode Color.Primary Color.P Hover}",
+            "type": "color"
+          },
+          "hoverdate": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G200}",
+            "type": "color"
+          },
+          "daystext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "datestext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "hovertext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "background": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{Light Effect.L Small}",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        }
+      }
+    }
+  },
+  "month": {
+    "active": {
+      "calendar": {
+        "header": {
+          "year": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "activefill": {
+            "value": "{Light Mode Color.Primary Color.Active}",
+            "type": "color"
+          },
+          "activemonth": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "months": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "activetext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{Light Effect.L Small}",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        }
+      }
+    },
+    "hover": {
+      "calendar": {
+        "header": {
+          "year": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "hoverfill": {
+            "value": "{Light Mode Color.Primary Color.P Hover}",
+            "type": "color"
+          },
+          "hovermonth": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "months": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "hovertext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{Light Effect.L Small}",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        }
+      }
+    }
+  },
+  "year": {
+    "active": {
+      "calendar": {
+        "header": {
+          "year": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "activefill": {
+            "value": "{Light Mode Color.Primary Color.Active}",
+            "type": "color"
+          },
+          "activeyear": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "years": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "scroll": {
+            "value": "{Grey.G75}",
+            "type": "color"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "activetext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "shadow": {
+          "value": "{Light Effect.L Small}",
+          "type": "boxShadow"
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        }
+      },
+      "scroll": {
+        "height": {
+          "value": "86px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "6px",
+          "type": "dimension"
+        }
+      }
+    },
+    "hover": {
+      "calendar": {
+        "header": {
+          "year": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "line": {
+            "value": {
+              "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "monthtext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "body": {
+          "hoverfill": {
+            "value": "{Light Mode Color.Primary Color.P Hover}",
+            "type": "color"
+          },
+          "hoveryear": {
+            "value": "{Body.White}",
+            "type": "color"
+          },
+          "disableddate": {
+            "value": "{Grey.G400}",
+            "type": "color"
+          },
+          "years": {
+            "value": "{Body.Black}",
+            "type": "color"
+          },
+          "scroll": {
+            "value": "{Grey.G75}",
+            "type": "color"
+          },
+          "yeartext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "disabledtext": {
+            "value": "{Body Text.Body Default}",
+            "type": "typography"
+          },
+          "hovertext": {
+            "value": "{Body Text.Body Medium}",
+            "type": "typography"
+          }
+        },
+        "cornerradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "shadow": {
+          "value": "{Light Effect.L Small}",
+          "type": "boxShadow"
+        },
+        "height": {
+          "value": "273.07px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "280px",
+          "type": "dimension"
+        }
+      },
+      "scroll": {
+        "height": {
+          "value": "86px",
+          "type": "dimension"
+        },
+        "width": {
+          "value": "6px",
+          "type": "dimension"
+        }
+      }
+    }
+  }
+}

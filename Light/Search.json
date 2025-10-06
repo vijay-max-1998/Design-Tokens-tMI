@@ -1,0 +1,62 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "searchtext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "31px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "300px",
+      "type": "dimension"
+    },
+    "line": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  },
+  "hover": {
+    "text": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "searchtext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "31px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "300px",
+      "type": "dimension"
+    },
+    "line": {
+      "value": {
+        "color": "{Light Mode Color.Primary Color.P Hover}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    }
+  }
+}

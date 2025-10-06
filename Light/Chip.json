@@ -1,0 +1,80 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.16}",
+      "type": "borderRadius"
+    },
+    "bodytext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "26px",
+      "type": "dimension"
+    }
+  },
+  "hover": {
+    "text": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.16}",
+      "type": "borderRadius"
+    },
+    "bodytext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "26px",
+      "type": "dimension"
+    }
+  },
+  "disabled": {
+    "text": {
+      "value": "{Grey.G400}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Grey.G400}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{Light Mode Color.Primary Color.P Disable}",
+      "type": "color"
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.16}",
+      "type": "borderRadius"
+    },
+    "bodytext": {
+      "value": "{Body Text.Body Default}",
+      "type": "typography"
+    },
+    "height": {
+      "value": "26px",
+      "type": "dimension"
+    }
+  }
+}

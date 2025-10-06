@@ -1,0 +1,302 @@
+{
+  "default": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "xlabels": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "ylabels": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "xline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "gridline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "dashed"
+      },
+      "type": "border"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "xvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "yvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "legend": {
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circle2": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "circle1": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      }
+    },
+    "line": {
+      "line2": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "line1": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      }
+    }
+  },
+  "widget": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "xlabels": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "ylabels": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "xline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "gridline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "dashed"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "xvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "yvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "legend": {
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circle2": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "circle1": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.Black}",
+        "type": "color"
+      }
+    },
+    "line": {
+      "line2": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "line1": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      }
+    }
+  },
+  "hoverdata": {
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "xlabels": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "ylabels": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "line": {
+      "line2": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "line1": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      }
+    },
+    "legend": {
+      "circle2": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "circle1": {
+        "value": "{Category.C2.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      }
+    },
+    "tooltip": {
+      "background": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "shadow": {
+        "value": "{Light Effect.L Small}",
+        "type": "boxShadow"
+      },
+      "textstyle": {
+        "value": "{Body Text.Body Default}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "86px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "104px",
+        "type": "dimension"
+      }
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "xvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "yvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "xline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "gridline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "dashed"
+      },
+      "type": "border"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    }
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "default": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "modules": {
+      "title": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "iconfill": {
+        "value": "{Light Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "titletext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "labeltext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "iconbgheight": {
+        "value": "42px",
+        "type": "dimension"
+      },
+      "iconbgwidth": {
+        "value": "45px",
+        "type": "dimension"
+      }
+    },
+    "horizontals": {
+      "title": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "iconfill": {
+        "value": "{Light Mode Color.Secondary Color.S Default}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "titletext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "labeltext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      }
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "height": {
+      "value": "813px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "532px",
+      "type": "dimension"
+    }
+  },
+  "hover": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "modules": {
+      "title": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "iconfill": {
+        "value": "{Light Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "hover": {
+        "foreground": {
+          "value": "{Grey.G50}",
+          "type": "color"
+        },
+        "iconfill": {
+          "value": "{Light Mode Color.Primary Color.P Hover}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "fillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "iconfillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "highlightheight": {
+          "value": "118px",
+          "type": "dimension"
+        }
+      },
+      "iconfillradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "titletext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "labeltext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "iconbgheight": {
+        "value": "42px",
+        "type": "dimension"
+      },
+      "iconbgwidth": {
+        "value": "45px",
+        "type": "dimension"
+      }
+    },
+    "horizontals": {
+      "title": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "iconfill": {
+        "value": "{Light Mode Color.Secondary Color.S Default}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "hover": {
+        "foreground": {
+          "value": "{Grey.G50}",
+          "type": "color"
+        },
+        "iconfill": {
+          "value": "{Light Mode Color.Secondary Color.S Hover}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.Black}",
+          "type": "color"
+        },
+        "fillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "iconfillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        }
+      },
+      "iconfillradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "titletext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "labeltext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      }
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "height": {
+      "value": "813px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "532px",
+      "type": "dimension"
+    }
+  },
+  "active": {
+    "background": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "modules": {
+      "title": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "iconfill": {
+        "value": "{Light Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "active": {
+        "foreground": {
+          "value": "{Category.C12.100}",
+          "type": "color"
+        },
+        "iconfill": {
+          "value": "{Light Mode Color.Primary Color.Active}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "fillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "iconfillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "highlightheight": {
+          "value": "118px",
+          "type": "dimension"
+        }
+      },
+      "iconfillradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "titletext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "labeltext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "iconbgheight": {
+        "value": "42px",
+        "type": "dimension"
+      },
+      "iconbgwidth": {
+        "value": "45px",
+        "type": "dimension"
+      }
+    },
+    "horizontals": {
+      "title": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "iconfill": {
+        "value": "{Light Mode Color.Secondary Color.S Default}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "active": {
+        "foreground": {
+          "value": "{Category.C13.100}",
+          "type": "color"
+        },
+        "iconfill": {
+          "value": "{Light Mode Color.Secondary Color.S Active}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{Body.White}",
+          "type": "color"
+        },
+        "fillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        },
+        "iconfillradius": {
+          "value": "{Corner Radius.4}",
+          "type": "borderRadius"
+        }
+      },
+      "iconfillradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "titletext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "labeltext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      }
+    },
+    "cornerradius": {
+      "value": "{Corner Radius.6}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Light Effect.L Small}",
+      "type": "boxShadow"
+    },
+    "height": {
+      "value": "813px",
+      "type": "dimension"
+    },
+    "width": {
+      "value": "532px",
+      "type": "dimension"
+    }
+  }
+}

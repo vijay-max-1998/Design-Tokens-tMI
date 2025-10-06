@@ -1,0 +1,276 @@
+{
+  "default": {
+    "primary": {
+      "background": {
+        "value": "{Light Mode Color.Primary Color.Default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "bodytext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      }
+    },
+    "secondary": {
+      "background": {
+        "value": "{Light Mode Color.Secondary Color.S Default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "bodytext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      }
+    },
+    "Success": {
+      "background": {
+        "value": "{Status Color.Success.Success Default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "background": {
+        "value": "{Status Color.Danger.Danger Default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "bodytext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      }
+    },
+    "warning": {
+      "background": {
+        "value": "{Status Color.Warning.Warning Default}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "bodytext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      }
+    },
+    "success": {
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "bodytext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "56px",
+        "type": "dimension"
+      }
+    }
+  },
+  "expand": {
+    "danger": {
+      "background": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "heading": {
+        "value": "{Status Color.Danger.Danger Default}",
+        "type": "color"
+      },
+      "bodytext": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "alerticon": {
+        "value": "{Status Color.Danger.Danger Default}",
+        "type": "color"
+      },
+      "closeicon": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "border": {
+        "value": {
+          "color": "{Status Color.Danger.Danger Default}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "shadow": {
+        "value": "{Light Effect.L Medium}",
+        "type": "boxShadow"
+      },
+      "headingtext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "subtext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      }
+    },
+    "success": {
+      "background": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "heading": {
+        "value": "{Status Color.Success.Success Default}",
+        "type": "color"
+      },
+      "bodytext": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "alerticon": {
+        "value": "{Status Color.Success.Success Default}",
+        "type": "color"
+      },
+      "closeicon": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "border": {
+        "value": {
+          "color": "{Status Color.Success.Success Default}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "shadow": {
+        "value": "{Light Effect.L Medium}",
+        "type": "boxShadow"
+      },
+      "headingtext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "subtext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      }
+    },
+    "warning": {
+      "background": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "heading": {
+        "value": "{Status Color.Warning.Warning Default}",
+        "type": "color"
+      },
+      "bodytext": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "alerticon": {
+        "value": "{Status Color.Warning.Warning Default}",
+        "type": "color"
+      },
+      "closeicon": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "cornerradius": {
+        "value": "{Corner Radius.4}",
+        "type": "borderRadius"
+      },
+      "border": {
+        "value": {
+          "color": "{Status Color.Warning.Warning Default}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border"
+      },
+      "shadow": {
+        "value": "{Light Effect.L Medium}",
+        "type": "boxShadow"
+      },
+      "headingtext": {
+        "value": "{Lead Text.Lead Text Medium}",
+        "type": "typography"
+      },
+      "subtext": {
+        "value": "{Lead Text.Lead Text Default}",
+        "type": "typography"
+      }
+    }
+  }
+}

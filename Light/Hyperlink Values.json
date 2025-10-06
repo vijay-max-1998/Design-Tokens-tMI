@@ -1,0 +1,70 @@
+{
+  "default": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "badgetext": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "badgefill": {
+      "value": "{Light Mode Color.Primary Color.Default}",
+      "type": "color"
+    },
+    "textsize": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "badge": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "badgeheight": {
+      "value": "22px",
+      "type": "dimension"
+    },
+    "badgewidth": {
+      "value": "40px",
+      "type": "dimension"
+    },
+    "badgeradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  },
+  "hover": {
+    "text": {
+      "value": "{Body.Black}",
+      "type": "color"
+    },
+    "badgetext": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "badgefill": {
+      "value": "{Light Mode Color.Primary Color.P Hover}",
+      "type": "color"
+    },
+    "textsize": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "badge": {
+      "value": "{Body Text.Body Medium}",
+      "type": "typography"
+    },
+    "badgeheight": {
+      "value": "22px",
+      "type": "dimension"
+    },
+    "badgewidth": {
+      "value": "40px",
+      "type": "dimension"
+    },
+    "badgeradius": {
+      "value": "{Corner Radius.24}",
+      "type": "borderRadius"
+    }
+  }
+}

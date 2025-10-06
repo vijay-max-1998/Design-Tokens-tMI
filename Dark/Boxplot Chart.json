@@ -1,0 +1,290 @@
+{
+  "default": {
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "xlabels": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "ylabels": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "xline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "gridline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "dashed"
+      },
+      "type": "border"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "xvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "yvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "legend": {
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circle": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.Black}",
+        "type": "color"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      }
+    },
+    "boxplot": {
+      "boxfill": {
+        "value": "{Category.C5.100}",
+        "type": "color"
+      },
+      "line": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      }
+    }
+  },
+  "widget": {
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "xlabels": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "ylabels": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "icon": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "xline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "gridline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "dashed"
+      },
+      "type": "border"
+    },
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "xvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "yvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "legend": {
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circle": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.White}",
+        "type": "color"
+      }
+    },
+    "boxplot": {
+      "boxfill": {
+        "value": "{Category.C5.100}",
+        "type": "color"
+      },
+      "line": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      }
+    }
+  },
+  "hoverdata": {
+    "shadow": {
+      "value": "{Dark Effect.D Small}",
+      "type": "boxShadow"
+    },
+    "background": {
+      "value": "{Grey.G600}",
+      "type": "color"
+    },
+    "title": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "xlabels": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "ylabels": {
+      "value": "{Body.White}",
+      "type": "color"
+    },
+    "tooltip": {
+      "background": {
+        "value": "{Grey.G500}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{Body.White}",
+        "type": "color"
+      },
+      "shadow": {
+        "value": "{Dark Effect.D Small}",
+        "type": "boxShadow"
+      },
+      "textstyle": {
+        "value": "{Body Text.Body Default}",
+        "type": "typography"
+      },
+      "height": {
+        "value": "86px",
+        "type": "dimension"
+      },
+      "width": {
+        "value": "104px",
+        "type": "dimension"
+      }
+    },
+    "titletext": {
+      "value": "{Body Text.Body SemiBold}",
+      "type": "typography"
+    },
+    "xvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "yvalues": {
+      "value": "{Small.Small}",
+      "type": "typography"
+    },
+    "legend": {
+      "legendtext": {
+        "value": "{Small.Small}",
+        "type": "typography"
+      },
+      "circleheight": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circlewidth": {
+        "value": "12px",
+        "type": "dimension"
+      },
+      "circle": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      },
+      "legendcolor": {
+        "value": "{Body.White}",
+        "type": "color"
+      }
+    },
+    "xline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "gridline": {
+      "value": {
+        "color": "{Grey.G75}",
+        "width": "1",
+        "style": "dashed"
+      },
+      "type": "border"
+    },
+    "radius": {
+      "value": "{Corner Radius.4}",
+      "type": "borderRadius"
+    },
+    "boxplot": {
+      "boxfill": {
+        "value": "{Category.C5.100}",
+        "type": "color"
+      },
+      "line": {
+        "value": "{Category.C5.400}",
+        "type": "color"
+      }
+    }
+  }
+}
