@@ -3078,6 +3078,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -3096,6 +3104,14 @@
               "height": {
                 "value": "44px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "large": {
@@ -3114,6 +3130,14 @@
               "height": {
                 "value": "58px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             }
           },
@@ -3356,6 +3380,14 @@
               "height": {
                 "value": "34px",
                 "type": "dimension"
+              },
+              "border": {
+                "value": {
+                  "color": "{Light Mode Color.Primary Color.P Hover}",
+                  "width": "1",
+                  "style": "solid"
+                },
+                "type": "border"
               }
             },
             "medium": {
@@ -20895,10 +20927,6 @@
           },
           "hover": {
             "small": {
-              "background": {
-                "value": "{Dark Mode Color.Secondary Color.S Hover}",
-                "type": "color"
-              },
               "text": {
                 "value": "{Body.White}",
                 "type": "color"
@@ -20921,10 +20949,6 @@
               }
             },
             "medium": {
-              "background": {
-                "value": "{Dark Mode Color.Secondary Color.S Hover}",
-                "type": "color"
-              },
               "text": {
                 "value": "{Body.White}",
                 "type": "color"
@@ -20947,10 +20971,6 @@
               }
             },
             "large": {
-              "background": {
-                "value": "{Dark Mode Color.Secondary Color.S Hover}",
-                "type": "color"
-              },
               "text": {
                 "value": "{Body.White}",
                 "type": "color"
