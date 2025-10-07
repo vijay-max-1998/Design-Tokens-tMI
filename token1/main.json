@@ -10322,14 +10322,6 @@
           "value": "{Body.White}",
           "type": "color"
         },
-        "hoverfill": {
-          "value": "{Light Mode Color.Primary Color.P Hover}",
-          "type": "color"
-        },
-        "hovertext": {
-          "value": "{Body.White}",
-          "type": "color"
-        },
         "cornerradius": {
           "value": "{Corner Radius.4}",
           "type": "borderRadius"
@@ -10357,6 +10349,14 @@
         "width": {
           "value": "146px",
           "type": "dimension"
+        },
+        "hoverborder": {
+          "value": {
+            "color": "{Light Mode Color.Primary Color.P Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       },
       "active": {
@@ -11242,7 +11242,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Light Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Light Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "headertext": {
@@ -11266,7 +11266,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Light Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Light Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "checkbox": {
@@ -11392,7 +11392,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Light Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Light Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "headertext": {
@@ -11454,7 +11454,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Light Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Light Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "headertext": {
@@ -12081,11 +12081,7 @@
           "type": "color"
         },
         "badgetext": {
-          "value": "{Body.White}",
-          "type": "color"
-        },
-        "badgefill": {
-          "value": "{Light Mode Color.Primary Color.P Hover}",
+          "value": "{Body.Black}",
           "type": "color"
         },
         "badgeradius": {
@@ -12107,6 +12103,14 @@
         "badgewidth": {
           "value": "40px",
           "type": "dimension"
+        },
+        "badgeborder": {
+          "value": {
+            "color": "{Light Mode Color.Primary Color.P Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       }
     },
@@ -13308,10 +13312,6 @@
             "type": "color"
           },
           "hover": {
-            "foreground": {
-              "value": "{Grey.G50}",
-              "type": "color"
-            },
             "iconfill": {
               "value": "{Light Mode Color.Primary Color.P Hover}",
               "type": "color"
@@ -13331,6 +13331,14 @@
             "highlightheight": {
               "value": "118px",
               "type": "dimension"
+            },
+            "border": {
+              "value": {
+                "color": "{Light Mode Color.Primary Color.P Hover}",
+                "width": "1",
+                "style": "solid"
+              },
+              "type": "border"
             }
           },
           "iconfillradius": {
@@ -13372,16 +13380,12 @@
             "type": "color"
           },
           "hover": {
-            "foreground": {
-              "value": "{Grey.G50}",
-              "type": "color"
-            },
             "iconfill": {
               "value": "{Light Mode Color.Secondary Color.S Hover}",
               "type": "color"
             },
             "icon": {
-              "value": "{Body.Black}",
+              "value": "{Body.White}",
               "type": "color"
             },
             "fillradius": {
@@ -13391,6 +13395,14 @@
             "iconfillradius": {
               "value": "{Corner Radius.4}",
               "type": "borderRadius"
+            },
+            "border": {
+              "value": {
+                "color": "{Light Mode Color.Secondary Color.S Hover}",
+                "width": "1",
+                "style": "solid"
+              },
+              "type": "border"
             }
           },
           "iconfillradius": {
@@ -14013,7 +14025,7 @@
           "type": "color"
         },
         "bento": {
-          "value": "{Body.White}",
+          "value": "{Light Mode Color.Primary Color.Default}",
           "type": "color"
         },
         "icon": {
@@ -14040,10 +14052,6 @@
           "value": "{Body.White}",
           "type": "color"
         },
-        "hoverfill": {
-          "value": "{Light Mode Color.Primary Color.P Hover}",
-          "type": "color"
-        },
         "iconfill": {
           "value": "{Light Mode Color.Blue.B 50}",
           "type": "color"
@@ -14060,9 +14068,9 @@
           },
           "type": "border"
         },
-        "profileborder": {
+        "hoverborder": {
           "value": {
-            "color": "{Body.White}",
+            "color": "{Light Mode Color.Primary Color.P Hover}",
             "width": "1",
             "style": "solid"
           },
@@ -17085,14 +17093,6 @@
             "value": "{Body.White}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Light Mode Color.Primary Color.P Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.White}",
-            "type": "color"
-          },
           "radius": {
             "value": "{Corner Radius.6}",
             "type": "borderRadius"
@@ -17116,6 +17116,14 @@
           "width": {
             "value": "306px",
             "type": "dimension"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Light Mode Color.Primary Color.P Hover}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
           }
         }
       },
@@ -17167,21 +17175,13 @@
             "value": "{Body.White}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Light Mode Color.Primary Color.P Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.White}",
-            "type": "color"
-          },
           "checkbox": {
             "fill": {
-              "value": "{Body.White}",
+              "value": "{Light Mode Color.Primary Color.Default}",
               "type": "color"
             },
             "icon": {
-              "value": "{Body.Black}",
+              "value": "{Body.White}",
               "type": "color"
             },
             "radius": {
@@ -17199,14 +17199,6 @@
             "defaultborder": {
               "value": {
                 "color": "{Light Mode Color.Primary Color.Default}",
-                "width": "1",
-                "style": "solid"
-              },
-              "type": "border"
-            },
-            "hoverborder": {
-              "value": {
-                "color": "{Body.White}",
                 "width": "1",
                 "style": "solid"
               },
@@ -17232,6 +17224,14 @@
           "border": {
             "value": {
               "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Light Mode Color.Primary Color.P Hover}",
               "width": "1",
               "style": "solid"
             },
@@ -17283,21 +17283,13 @@
             "value": "{Body.White}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Light Mode Color.Primary Color.P Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.White}",
-            "type": "color"
-          },
           "radiobutton": {
             "fill": {
-              "value": "{Body.White}",
+              "value": "{Light Mode Color.Primary Color.Default}",
               "type": "color"
             },
             "innercircle": {
-              "value": "{Body.Black}",
+              "value": "{Body.White}",
               "type": "color"
             },
             "radius": {
@@ -17319,14 +17311,6 @@
                 "style": "solid"
               },
               "type": "border"
-            },
-            "hoverborder": {
-              "value": {
-                "color": "{Body.White}",
-                "width": "1",
-                "style": "solid"
-              },
-              "type": "border"
             }
           },
           "radius": {
@@ -17340,6 +17324,14 @@
           "border": {
             "value": {
               "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Light Mode Color.Primary Color.P Hover}",
               "width": "1",
               "style": "solid"
             },
@@ -17594,14 +17586,6 @@
           "value": "{Body.White}",
           "type": "color"
         },
-        "hovertext": {
-          "value": "{Body.White}",
-          "type": "color"
-        },
-        "hoverfill": {
-          "value": "{Light Mode Color.Primary Color.P Hover}",
-          "type": "color"
-        },
         "text": {
           "value": "{Body.Black}",
           "type": "color"
@@ -17649,14 +17633,6 @@
           }
         },
         "checkbox": {
-          "fill": {
-            "value": "{Body.White}",
-            "type": "color"
-          },
-          "icon": {
-            "value": "{Body.Black}",
-            "type": "color"
-          },
           "radius": {
             "value": "{Corner Radius.4}",
             "type": "borderRadius"
@@ -17664,14 +17640,6 @@
           "defaultborder": {
             "value": {
               "color": "{Light Mode Color.Primary Color.Default}",
-              "width": "1",
-              "style": "solid"
-            },
-            "type": "border"
-          },
-          "hoverborder": {
-            "value": {
-              "color": "{Body.White}",
               "width": "1",
               "style": "solid"
             },
@@ -17713,6 +17681,14 @@
         "scrollwidth": {
           "value": "6px",
           "type": "dimension"
+        },
+        "hoverborder": {
+          "value": {
+            "color": "{Light Mode Color.Primary Color.P Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       },
       "active": {
@@ -26839,6 +26815,14 @@
         "width": {
           "value": "146px",
           "type": "dimension"
+        },
+        "hoverborder": {
+          "value": {
+            "color": "{Dark Mode Color.Primary Color.Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       },
       "active": {
@@ -27740,7 +27724,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Dark Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Dark Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "headertext": {
@@ -27764,7 +27748,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Dark Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Dark Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "checkbox": {
@@ -27890,7 +27874,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Dark Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Dark Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "headertext": {
@@ -27952,7 +27936,7 @@
             "type": "color"
           },
           "background": {
-            "value": "{Dark Mode Color.Gradient Color.Gradient Default}",
+            "value": "{Dark Mode Color.Gradient Color.Table Header Gradient}",
             "type": "color"
           },
           "headertext": {
@@ -28579,11 +28563,7 @@
           "type": "color"
         },
         "badgetext": {
-          "value": "{Body.Black}",
-          "type": "color"
-        },
-        "badgefill": {
-          "value": "{Dark Mode Color.Primary Color.Hover}",
+          "value": "{Body.White}",
           "type": "color"
         },
         "badgeradius": {
@@ -28605,6 +28585,14 @@
         "badgewidth": {
           "value": "40px",
           "type": "dimension"
+        },
+        "badgeborder": {
+          "value": {
+            "color": "{Dark Mode Color.Primary Color.Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       }
     },
@@ -29814,16 +29802,12 @@
             "type": "color"
           },
           "hover": {
-            "foreground": {
-              "value": "{Grey.G500}",
-              "type": "color"
-            },
             "iconfill": {
               "value": "{Dark Mode Color.Primary Color.Hover}",
               "type": "color"
             },
             "icon": {
-              "value": "{Body.Black}",
+              "value": "{Body.White}",
               "type": "color"
             },
             "fillradius": {
@@ -29837,6 +29821,14 @@
             "highlightheight": {
               "value": "118px",
               "type": "dimension"
+            },
+            "border": {
+              "value": {
+                "color": "{Dark Mode Color.Primary Color.Hover}",
+                "width": "1",
+                "style": "solid"
+              },
+              "type": "border"
             }
           },
           "iconfillradius": {
@@ -29878,16 +29870,12 @@
             "type": "color"
           },
           "hover": {
-            "foreground": {
-              "value": "{Grey.G500}",
-              "type": "color"
-            },
             "iconfill": {
               "value": "{Dark Mode Color.Secondary Color.S Hover}",
               "type": "color"
             },
             "icon": {
-              "value": "{Body.Black}",
+              "value": "{Body.White}",
               "type": "color"
             },
             "fillradius": {
@@ -29897,6 +29885,14 @@
             "iconfillradius": {
               "value": "{Corner Radius.4}",
               "type": "borderRadius"
+            },
+            "border": {
+              "value": {
+                "color": "{Dark Mode Color.Secondary Color.S Hover}",
+                "width": "1",
+                "style": "solid"
+              },
+              "type": "border"
             }
           },
           "iconfillradius": {
@@ -30083,7 +30079,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Grey.G600}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "collapsefill": {
@@ -30133,7 +30129,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Grey.G600}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "collapsefill": {
@@ -30199,7 +30195,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Grey.G600}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "collapsefill": {
@@ -30265,7 +30261,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Grey.G600}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "collapsefill": {
@@ -30327,7 +30323,7 @@
           "type": "color"
         },
         "background": {
-          "value": "{Grey.G600}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "collapsefill": {
@@ -30405,7 +30401,7 @@
           "type": "color"
         },
         "backfround": {
-          "value": "{Grey.G600}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "titletext": {
@@ -30433,7 +30429,7 @@
     "header": {
       "default": {
         "background": {
-          "value": "{Body.Black}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "bento": {
@@ -30515,11 +30511,11 @@
       },
       "hover": {
         "background": {
-          "value": "{Body.Black}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "bento": {
-          "value": "{Body.Black}",
+          "value": "{Light Mode Color.Primary Color.Default}",
           "type": "color"
         },
         "icon": {
@@ -30531,23 +30527,19 @@
           "type": "color"
         },
         "profileicon": {
-          "value": "{Body.Black}",
+          "value": "{Body.White}",
           "type": "color"
         },
         "username": {
-          "value": "{Body.Black}",
+          "value": "{Body.White}",
           "type": "color"
         },
         "account": {
-          "value": "{Grey.G400}",
+          "value": "{Grey.G75}",
           "type": "color"
         },
         "dropdown": {
-          "value": "{Body.Black}",
-          "type": "color"
-        },
-        "hoverfill": {
-          "value": "{Dark Mode Color.Primary Color.Hover}",
+          "value": "{Body.White}",
           "type": "color"
         },
         "iconfill": {
@@ -30566,9 +30558,9 @@
           },
           "type": "border"
         },
-        "profileborder": {
+        "hoverborder": {
           "value": {
-            "color": "{Body.Black}",
+            "color": "{Dark Mode Color.Primary Color.Hover}",
             "width": "1",
             "style": "solid"
           },
@@ -30613,7 +30605,7 @@
       },
       "active": {
         "background": {
-          "value": "{Body.Black}",
+          "value": "{Dark Mode Color.Others.NAV BG}",
           "type": "color"
         },
         "bento": {
@@ -33601,14 +33593,6 @@
             "value": "{Grey.G600}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Dark Mode Color.Primary Color.Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.Black}",
-            "type": "color"
-          },
           "radius": {
             "value": "{Corner Radius.6}",
             "type": "borderRadius"
@@ -33628,6 +33612,14 @@
           "border": {
             "value": {
               "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Dark Mode Color.Primary Color.Hover}",
               "width": "1",
               "style": "solid"
             },
@@ -33683,21 +33675,13 @@
             "value": "{Grey.G600}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Dark Mode Color.Primary Color.Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.Black}",
-            "type": "color"
-          },
           "checkbox": {
             "fill": {
-              "value": "{Body.White}",
+              "value": "{Dark Mode Color.Primary Color.Default}",
               "type": "color"
             },
             "icon": {
-              "value": "{Body.Black}",
+              "value": "{Body.White}",
               "type": "color"
             },
             "radius": {
@@ -33714,15 +33698,7 @@
             },
             "defaultborder": {
               "value": {
-                "color": "{Body.White}",
-                "width": "1",
-                "style": "solid"
-              },
-              "type": "border"
-            },
-            "hoverborder": {
-              "value": {
-                "color": "{Body.Black}",
+                "color": "{Dark Mode Color.Primary Color.Default}",
                 "width": "1",
                 "style": "solid"
               },
@@ -33748,6 +33724,14 @@
           "border": {
             "value": {
               "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Dark Mode Color.Primary Color.Hover}",
               "width": "1",
               "style": "solid"
             },
@@ -33803,21 +33787,13 @@
             "value": "{Grey.G600}",
             "type": "color"
           },
-          "hoverfill": {
-            "value": "{Dark Mode Color.Primary Color.Hover}",
-            "type": "color"
-          },
-          "hovertext": {
-            "value": "{Body.Black}",
-            "type": "color"
-          },
           "radiobutton": {
             "fill": {
-              "value": "{Body.White}",
+              "value": "{Dark Mode Color.Primary Color.Default}",
               "type": "color"
             },
             "innercircle": {
-              "value": "{Body.Black}",
+              "value": "{Body.White}",
               "type": "color"
             },
             "radius": {
@@ -33834,15 +33810,7 @@
             },
             "defaultborder": {
               "value": {
-                "color": "{Body.White}",
-                "width": "1",
-                "style": "solid"
-              },
-              "type": "border"
-            },
-            "hoverborder": {
-              "value": {
-                "color": "{Body.Black}",
+                "color": "{Dark Mode Color.Primary Color.Default}",
                 "width": "1",
                 "style": "solid"
               },
@@ -33868,6 +33836,14 @@
           "border": {
             "value": {
               "color": "{Grey.G75}",
+              "width": "1",
+              "style": "solid"
+            },
+            "type": "border"
+          },
+          "hoverborder": {
+            "value": {
+              "color": "{Dark Mode Color.Primary Color.Hover}",
               "width": "1",
               "style": "solid"
             },
@@ -34122,14 +34098,6 @@
           "value": "{Grey.G600}",
           "type": "color"
         },
-        "hovertext": {
-          "value": "{Body.Black}",
-          "type": "color"
-        },
-        "hoverfill": {
-          "value": "{Dark Mode Color.Primary Color.Hover}",
-          "type": "color"
-        },
         "text": {
           "value": "{Body.White}",
           "type": "color"
@@ -34177,14 +34145,6 @@
           }
         },
         "checkbox": {
-          "fill": {
-            "value": "{Body.White}",
-            "type": "color"
-          },
-          "icon": {
-            "value": "{Body.Black}",
-            "type": "color"
-          },
           "radius": {
             "value": "{Corner Radius.4}",
             "type": "borderRadius"
@@ -34192,14 +34152,6 @@
           "defaultborder": {
             "value": {
               "color": "{Body.White}",
-              "width": "1",
-              "style": "solid"
-            },
-            "type": "border"
-          },
-          "hoverborder": {
-            "value": {
-              "color": "{Body.Black}",
               "width": "1",
               "style": "solid"
             },
@@ -34241,6 +34193,14 @@
         "scrollwidth": {
           "value": "6px",
           "type": "dimension"
+        },
+        "hoverborder": {
+          "value": {
+            "color": "{Dark Mode Color.Primary Color.Hover}",
+            "width": "1",
+            "style": "solid"
+          },
+          "type": "border"
         }
       },
       "active": {
